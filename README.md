@@ -1,2 +1,2 @@
 # Dynamic_Carousel
-Dynamic content
+Dynamic content design 
